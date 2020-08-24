@@ -124,4 +124,4 @@ Notes on the above Functional Requirements.
 
 Notes on General Items
 
-Great work DeWiit! Your code is looking clean and efficient. I love the use of the linear progress bar! Keep up with your code comments they really help when someone else has to look at your code. Well done with styling and general user experience. Great effort!
+Great work DeWiit! Your code is looking clean and efficient. I love the use of the linear progress bar! Keep up with your code comments they really help when someone else has to look at your code. Well done with styling and general user experience. Your readme is fantastic and communicates your efforts and showcases your skils. Great effort!
